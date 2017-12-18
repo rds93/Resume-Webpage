@@ -1,0 +1,48 @@
+body{
+
+   background:linear-gradient(to bottom right,#eaf8ff,#f3f3f3):
+
+    
+}
+#heading {
+    
+    text-align:center;
+    line-height: .5;
+    
+    
+}
+
+#heading > p{
+    font-size: 19px;
+}
+h3{
+    margin-left:1.5%;
+    display:inline;
+    font-family: sans-serif;
+    
+    
+}
+
+#objective > p{
+    
+    margin: 1%;
+    font-family:serif;
+    font-size: 16px;
+   
+}
+#education > p {
+    margin: 1%;
+    line-height:.1;
+
+}
+
+hr{
+    
+    margin:.5%;
+    
+}
+           
+        
+    
+    
+}
